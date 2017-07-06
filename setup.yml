@@ -4,4 +4,4 @@
   - name: make a compressed file
     archive:
         path: /tmp
-        dest: ~/compressed.tar.gz
+        dest: /tmp/compressed.tar.gz
