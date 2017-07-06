@@ -1,5 +1,5 @@
 ---
-- hosts: OSR
+- hosts: demo
   tasks:
   - name: make a compressed file
     archive:
