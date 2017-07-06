@@ -3,5 +3,5 @@
   tasks:
   - name: make a compressed file
     archive:
-        path: /tmp
-        dest: /tmp/compressed.tar.gz
+        path: ~/
+        dest: ~/compressed.tar.gz
